@@ -29,3 +29,6 @@ Los algoritmos genéticos se inspiran en la evolución biológica para encontrar
 Puedes instalarlos con:
 
 pip install numpy matplotlib
+
+## Más info en:
+https://www.frexus.dev/post/inteligencia-artificial/
